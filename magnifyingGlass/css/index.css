@@ -5,6 +5,7 @@
 
 .box {
   width: 80vw;
+  min-width: 800px;
   height: 80vh;
   min-height: 600px;
   line-height: 80vh;
